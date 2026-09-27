@@ -81,7 +81,7 @@ if st.button("Predict Segment"):
 st.markdown("""
 <div class="footer">
     ✦ made with love & late nights by ✦<br>
-    <strong>Asrar Farooq Wani</strong><br>
+    <strong>Naman khajuria</strong><br>
      with <strong>coffee and Pringles</strong>
 </div>
 """, unsafe_allow_html=True)
